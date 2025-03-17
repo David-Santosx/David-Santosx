@@ -3,9 +3,11 @@
 ### About
 
 I am a Systems Analysis and Development student at **University of Cuiaba**. <br>
-I currently work as a waiter (nighttime) and IT assistant (daytime) and am actively seeking my first opportunity as a full-stack developer.
+I currently work as an IT assistant and am actively seeking my first opportunity as a full-stack developer.
 
 I am fascinated with learning and always seek to qualify.
+
+Fun facts: As a hobby, I'm currently developing a game with C# using Unity 6. And my first contact with programming was when I was 14 years old, developing scripts for GTA San Andreas.
 
 ### Skills
 
